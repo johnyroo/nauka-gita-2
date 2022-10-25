@@ -7,6 +7,6 @@
   </head>
   <body>
     <h1>Pierwszy nagłówek</h1>
-    
+    <p>i troszkę tekstu</p>
   </body>
 </html>
